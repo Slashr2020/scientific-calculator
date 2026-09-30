@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*~
+
+a.out
+.exe
+.o
+build/
+.cache/
